@@ -1,0 +1,204 @@
+2017-10-03 19:02:21 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 19:02:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 19:02:21 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 19:02:49 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:03:06 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:03:07 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-03 19:03:19 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-03 19:03:31 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-03 19:03:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:03:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:03:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:03:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:03:53 element.py methed:wait_element line:77 INFO - current element name:正式服
+2017-10-03 19:04:05 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:04:05 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:04:05 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-03 19:04:18 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-03 19:04:31 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-03 19:04:43 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:04:51 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:05:00 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:05:08 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:05:17 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 19:05:17 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 19:10:31 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-03 19:10:31 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-03 19:10:38 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:08:16.88
+
+2017-10-03 19:29:07 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 19:29:07 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 19:29:07 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 19:29:36 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:29:57 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:29:57 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-03 19:30:10 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-03 19:30:22 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-03 19:30:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:30:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:30:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:30:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:30:44 element.py methed:wait_element line:77 INFO - current element name:正式服
+2017-10-03 19:30:56 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:30:56 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 19:30:57 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-03 19:31:09 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-03 19:31:22 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-03 19:31:34 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:31:42 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:31:51 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:31:59 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 19:32:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 19:32:08 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 19:38:37 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-03 19:38:37 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-03 19:38:45 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:09:38.01
+
+2017-10-03 20:12:16 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:12:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:12:16 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:12:42 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 20:12:57 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 20:12:57 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-03 20:13:09 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-03 20:13:22 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-03 20:13:34 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:13:34 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:13:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:13:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:13:43 element.py methed:wait_element line:77 INFO - current element name:正式服
+2017-10-03 20:13:56 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 20:13:56 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-03 20:13:56 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-03 20:14:08 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-03 20:14:20 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-03 20:14:32 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:14:41 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:14:49 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:14:57 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-03 20:15:06 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:15:06 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:23:09 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:23:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:23:09 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:23:09 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-10-03 20:23:11 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-03 20:23:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:23:11 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:23:13 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-03 20:23:13 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-03 20:23:15 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-03 20:23:15 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:6.27
+
+2017-10-03 20:23:53 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:23:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:23:53 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:24:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:24:18 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:24:39 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-03 20:24:39 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-03 20:24:46 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:52.63
+
+2017-10-03 20:25:11 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:25:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:25:11 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:25:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:25:42 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:28:21 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:28:22 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:28:22 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:28:22 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-10-03 20:28:24 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-03 20:28:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:28:36 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:28:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:28:36 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:29:05 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:29:20 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:33:18 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:33:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:33:18 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:34:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:34:14 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:38:13 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:38:13 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:38:13 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:38:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:38:38 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:38:58 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-03 20:38:58 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-03 20:39:05 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:51.34
+
+2017-10-03 20:39:09 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:10分钟
+
+2017-10-03 20:39:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-03 20:39:09 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-03 20:40:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-03 20:40:23 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-03 20:49:16 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-03 20:49:16 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-03 20:49:18 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-03 20:49:22 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:10:13.21
+

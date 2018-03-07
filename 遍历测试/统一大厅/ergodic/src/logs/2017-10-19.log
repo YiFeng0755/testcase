@@ -1,0 +1,606 @@
+2017-10-19 11:59:02 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 11:59:02 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 11:59:02 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 11:59:31 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 11:59:50 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 12:00:00 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 12:00:03 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 12:00:06 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 12:00:08 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 12:00:17 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:00:20 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:00:25 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:00:30 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:00:36 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:00:41 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 12:00:41 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 12:00:43 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 12:00:43 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 12:00:48 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 12:00:52 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 12:01:09 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 12:06:12 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 12:06:12 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 12:06:12 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 12:06:42 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 12:07:00 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 12:07:10 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 12:07:13 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 12:07:15 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 12:07:18 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 12:07:27 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:07:30 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:07:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:07:41 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:07:46 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 12:07:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 12:07:51 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 12:07:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 12:07:53 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 12:07:59 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 12:08:02 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 12:08:05 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 12:08:12 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 12:08:21 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 12:08:29 element.py methed:get_elements line:51 INFO - current element name:游戏内头像
+2017-10-19 12:08:42 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 12:08:42 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:08:57 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:09:12 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:09:27 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:09:42 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:09:58 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:10:13 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:10:29 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:10:44 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:11:00 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:11:15 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:11:31 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:11:47 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:12:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:12:17 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:12:32 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:12:46 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:13:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:13:17 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:13:33 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:13:48 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:14:04 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:14:21 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:14:36 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:14:51 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:15:05 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:15:21 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:15:37 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:15:52 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:16:09 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:16:25 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:16:41 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:16:57 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:17:12 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:17:26 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:17:41 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:17:58 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:18:15 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:18:30 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:18:46 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:19:04 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:19:21 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:19:36 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:19:51 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:20:08 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:20:23 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:20:39 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:20:54 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:21:09 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:21:22 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 12:21:22 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 12:21:26 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 12:21:29 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:15:17.05
+
+2017-10-19 14:23:53 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 14:23:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 14:23:53 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 14:24:23 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 14:24:39 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 14:24:49 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 14:24:51 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 14:24:54 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 14:24:56 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 14:25:05 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:25:08 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:25:13 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:25:18 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:25:24 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:25:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 14:25:29 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 14:25:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 14:25:31 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 14:25:36 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 14:25:40 element.py methed:wait_element line:77 INFO - current element name:血流成河
+2017-10-19 14:25:43 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 14:25:50 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 14:26:01 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 14:26:22 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 14:26:22 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 14:26:28 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:34.75
+
+2017-10-19 14:36:55 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 14:36:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 14:36:55 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 14:37:29 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 14:37:46 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 14:37:54 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 14:37:57 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 14:37:59 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 14:38:02 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 14:38:10 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:38:13 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:38:17 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:38:20 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:38:25 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:38:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 14:38:30 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 14:38:32 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 14:38:32 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 14:38:38 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 14:38:41 element.py methed:wait_element line:77 INFO - current element name:血流成河
+2017-10-19 14:38:44 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 14:38:47 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 14:39:00 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 14:39:21 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 14:39:21 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 14:39:27 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:31.66
+
+2017-10-19 14:46:47 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 14:46:47 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 14:46:47 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 14:47:17 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 14:47:33 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 14:47:44 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 14:47:46 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 14:47:49 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 14:47:52 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 14:48:00 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:48:03 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:48:09 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:48:14 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:48:19 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 14:48:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 14:48:24 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 14:48:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 14:48:27 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 14:48:32 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 14:48:35 element.py methed:wait_element line:77 INFO - current element name:血流成河
+2017-10-19 14:48:38 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 14:48:41 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 14:48:49 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 14:48:58 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 14:49:01 element.py methed:wait_element line:77 INFO - current element name:托管
+2017-10-19 14:50:10 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 14:50:10 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 14:50:16 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:28.73
+
+2017-10-19 15:08:15 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:08:15 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:08:15 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:08:42 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:09:00 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:09:09 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:09:12 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:09:14 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:09:17 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:09:26 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:09:29 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:09:34 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:09:39 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:09:45 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:09:50 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 15:09:50 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 15:09:52 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 15:09:52 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 15:09:57 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 15:10:00 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 15:10:04 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 15:10:07 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:10:13 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:10:21 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 15:10:25 element.py methed:wait_element line:77 INFO - current element name:托管
+2017-10-19 15:11:34 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:11:34 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 15:11:40 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:25.52
+
+2017-10-19 15:11:55 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:11:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:11:55 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:12:23 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:12:41 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:12:50 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:12:53 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:12:56 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:12:58 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:13:07 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:13:10 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:13:15 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:13:21 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:13:26 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:13:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 15:13:31 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 15:13:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 15:13:34 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 15:13:39 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 15:13:42 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 15:13:45 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 15:13:48 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:13:55 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:14:03 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 15:14:06 element.py methed:wait_element line:77 INFO - current element name:托管
+2017-10-19 15:15:15 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:15:15 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 15:15:21 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:25.98
+
+2017-10-19 15:22:08 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:22:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:22:08 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:22:40 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:22:57 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:23:08 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:23:10 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:23:13 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:23:15 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:23:24 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:23:27 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:23:33 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:23:38 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:23:43 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:23:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 15:23:48 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 15:23:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 15:23:51 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 15:23:56 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 15:23:59 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 15:24:02 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 15:24:05 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:24:14 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:24:22 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 15:24:26 element.py methed:get_elements line:51 INFO - current element name:游戏内头像
+2017-10-19 15:24:39 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:24:39 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:24:54 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:25:09 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:25:24 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:25:39 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:25:55 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:26:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:26:25 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:26:40 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:26:56 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:27:11 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:27:27 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:27:42 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:27:58 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:28:14 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:28:30 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:28:47 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:29:04 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:29:20 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:29:35 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:29:51 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:30:07 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:30:23 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:30:39 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:30:55 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:31:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:31:26 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:31:42 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:31:57 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:32:13 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:32:28 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:32:49 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:33:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:33:31 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:33:52 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:34:13 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:34:34 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:34:55 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:35:16 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:35:32 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:35:46 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:36:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:36:16 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:36:31 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:36:46 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:37:02 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:37:19 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 15:37:22 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:37:33 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:37:33 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-19 15:37:33 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:15:24.89
+
+2017-10-19 15:38:08 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:38:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:38:08 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:38:40 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:38:57 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:39:08 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:39:10 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:39:13 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:39:16 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:39:24 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:39:38 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:39:41 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:39:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:39:47 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:40:13 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:40:13 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:40:13 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:40:43 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:41:00 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:41:10 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:41:13 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:41:15 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:41:18 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:41:26 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:41:30 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:41:35 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:41:40 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:41:45 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:41:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 15:41:51 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 15:41:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 15:41:53 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 15:41:58 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 15:42:01 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 15:42:04 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 15:42:08 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:42:14 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:42:22 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 15:42:25 element.py methed:get_elements line:51 INFO - current element name:游戏内头像
+2017-10-19 15:42:38 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:42:38 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:42:53 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:43:45 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:43:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:43:45 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:44:21 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:44:37 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:44:47 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:44:49 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:44:52 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:44:55 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:45:03 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:45:07 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:45:12 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:45:17 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:45:22 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:45:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 15:45:28 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 15:45:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 15:45:30 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 15:45:35 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 15:45:38 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 15:45:41 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 15:45:45 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:45:51 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:45:59 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 15:46:02 element.py methed:get_elements line:51 INFO - current element name:游戏内头像
+2017-10-19 15:46:15 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:46:15 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:47:57 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 15:47:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 15:47:57 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 15:48:27 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 15:48:43 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:48:54 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 15:48:56 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 15:48:59 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 15:49:02 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 15:49:10 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:49:13 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:49:18 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:49:24 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:49:29 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 15:49:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 15:49:34 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 15:49:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 15:49:36 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 15:49:42 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 15:49:45 element.py methed:wait_element line:77 INFO - current element name:干瞪眼
+2017-10-19 15:49:48 element.py methed:wait_element line:77 INFO - current element name:资源下载-确定
+2017-10-19 15:49:51 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:49:58 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-19 15:50:06 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 15:50:09 element.py methed:get_elements line:51 INFO - current element name:游戏内头像
+2017-10-19 15:50:24 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 15:50:24 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:50:39 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:50:54 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:51:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:51:25 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:51:40 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:51:56 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:52:14 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:52:30 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:52:45 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:53:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:53:17 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:53:32 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:53:48 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:54:03 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:54:18 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:54:34 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:54:50 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:55:06 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:55:22 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:55:38 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:55:54 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:56:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:56:25 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:56:41 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:56:56 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:57:12 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:57:29 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:57:44 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:58:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:58:17 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:58:33 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:58:50 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:59:06 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:59:22 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:59:38 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 15:59:52 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:00:08 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:00:24 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:00:40 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:00:56 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:01:13 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:01:29 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:01:45 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:02:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:02:17 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:02:33 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:02:50 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:03:04 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 16:03:07 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 16:03:08 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 16:03:14 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:15:17.63
+
+2017-10-19 20:17:55 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27434_FriendInvitation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-19 20:17:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-19 20:17:55 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-19 20:18:25 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-19 20:18:41 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 20:18:50 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-19 20:18:53 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-19 20:18:55 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-19 20:18:58 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-19 20:19:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 20:19:10 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 20:19:15 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 20:19:20 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 20:19:25 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-19 20:19:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-19 20:19:31 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-19 20:19:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 获取mid
+
+2017-10-19 20:19:33 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-19 20:19:38 element.py methed:wait_element line:77 INFO - current element name:关闭测试页面
+2017-10-19 20:19:41 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 进入约牌
+
+2017-10-19 20:19:41 element.py methed:wait_element line:77 INFO - current element name:约牌
+2017-10-19 20:19:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入记分房
+
+2017-10-19 20:19:48 element.py methed:wait_element line:77 INFO - current element name:记分房
+2017-10-19 20:19:52 element.py methed:get_elements line:51 INFO - current element name:子游戏
+2017-10-19 20:19:55 element.py methed:wait_element line:77 INFO - current element name:确定
+2017-10-19 20:19:58 element.py methed:wait_element line:77 INFO - current element name:百分比
+2017-10-19 20:20:02 element.py methed:wait_element line:77 INFO - current element name:百分比
+2017-10-19 20:20:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 点击开房
+
+2017-10-19 20:20:18 element.py methed:wait_element line:77 INFO - current element name:开房
+2017-10-19 20:20:26 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-19 20:20:34 element.py methed:wait_element line:77 INFO - current element name:+邀请
+2017-10-19 20:20:46 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 20:20:46 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:21:01 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:21:16 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:21:31 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:21:47 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:22:02 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:22:17 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:22:33 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:22:48 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:23:03 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:23:18 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:23:33 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:23:48 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:24:03 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:24:19 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:24:34 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:24:49 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:25:04 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:25:19 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:25:34 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:25:50 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:26:05 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:26:20 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:26:35 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:26:50 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:27:06 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:27:21 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:27:36 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:27:51 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:28:06 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:28:22 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:28:37 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:28:52 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:29:07 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:29:22 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:29:37 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:29:53 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:30:08 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:30:23 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:30:38 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:30:53 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:31:09 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:31:24 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:31:40 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:31:55 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:32:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:32:25 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:32:40 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:32:55 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:33:04 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-19 20:33:04 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-19 20:33:10 element.py methed:wait_element line:77 INFO - current element name:game20结算框标志
+2017-10-19 20:33:10 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:15:15.59
+

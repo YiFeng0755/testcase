@@ -1,0 +1,39 @@
+2017-04-12 18:17:21 luadriver.py methed:creatLuaDriver line:38 INFO - creat luadriver
+2017-04-12 18:17:43 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:17:43 nativedriver.py methed:creatNativeDriver line:33 INFO - creat nativedriver
+2017-04-12 18:17:57 nativedriver.py methed:getNativeDriver line:53 INFO - get nativedriver
+2017-04-12 18:18:15 luadriver.py methed:creatLuaDriver line:38 INFO - creat luadriver
+2017-04-12 18:18:16 luadriver.py methed:creatLuaDriver line:44 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 41, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 236, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 192, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+2017-04-12 18:18:16 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:19:19 luadriver.py methed:creatLuaDriver line:38 INFO - creat luadriver
+2017-04-12 18:19:35 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:19:35 nativedriver.py methed:creatNativeDriver line:33 INFO - creat nativedriver
+2017-04-12 18:19:56 nativedriver.py methed:getNativeDriver line:53 INFO - get nativedriver
+2017-04-12 18:21:24 luadriver.py methed:creatLuaDriver line:38 INFO - creat luadriver
+2017-04-12 18:21:38 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:21:38 nativedriver.py methed:creatNativeDriver line:33 INFO - creat nativedriver
+2017-04-12 18:21:47 nativedriver.py methed:getNativeDriver line:53 INFO - get nativedriver
+2017-04-12 18:22:07 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:29:09 luadriver.py methed:creatLuaDriver line:38 INFO - creat luadriver
+2017-04-12 18:29:25 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:29:25 nativedriver.py methed:creatNativeDriver line:33 INFO - creat nativedriver
+2017-04-12 18:29:34 nativedriver.py methed:getNativeDriver line:53 INFO - get nativedriver
+2017-04-12 18:29:44 luadriver.py methed:getLuaDriver line:52 INFO - get luadriver
+2017-04-12 18:29:48 luadriver.py methed:closeLuadriver line:47 INFO - close luadriver
+2017-04-12 18:29:51 nativedriver.py methed:closeNativedriver line:43 INFO - close nativedriver
+2017-04-12 18:31:24 luadriver.py methed:closeLuadriver line:47 INFO - close luadriver

@@ -1,0 +1,237 @@
+2017-10-22 12:04:53 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-22 12:04:53 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 12:04:55 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-22 12:04:55 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 17:13:18.66
+
+2017-10-22 12:47:17 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 12:47:17 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 12:47:17 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 12:47:46 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 12:47:46 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 12:48:12 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 12:48:12 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 12:48:19 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:2.25
+
+2017-10-22 12:48:30 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 12:48:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 12:48:30 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 12:49:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 12:49:25 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 13:01:15 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 13:06:38 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 13:06:40 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-22 13:06:42 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:18:12.88
+
+2017-10-22 13:06:53 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 13:06:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 13:06:53 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 13:07:54 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 13:07:54 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 13:12:20 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 13:39:19 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 13:39:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 13:39:19 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 13:40:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 13:40:12 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 13:42:04 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 13:42:13 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 13:42:33 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 13:42:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 13:42:33 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 13:43:04 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 13:43:04 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 13:48:43 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 14:52:14 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 01:09:41.62
+
+2017-10-22 16:13:19 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 16:13:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 16:13:19 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 16:14:12 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 16:14:13 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 16:16:46 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 16:16:51 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 16:17:06 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:46.81
+
+2017-10-22 16:40:31 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 16:40:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 16:40:31 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 16:41:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 16:41:32 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 16:42:53 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 16:43:39 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 16:43:48 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:16.38
+
+2017-10-22 17:13:41 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 17:13:41 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 17:13:41 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 17:14:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 17:14:30 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 17:17:03 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 17:17:12 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:30.78
+
+2017-10-22 17:21:41 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 17:21:41 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 17:21:41 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 17:22:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 17:22:31 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 17:24:37 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 17:27:49 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 17:27:49 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 17:27:49 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 17:28:39 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 17:28:40 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 17:31:01 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 17:31:10 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:20.94
+
+2017-10-22 17:31:29 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 17:31:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 17:31:29 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 17:32:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 17:32:20 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 17:38:47 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 17:38:57 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:07:27.64
+
+2017-10-22 18:14:06 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:14:06 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:14:06 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:15:01 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:15:01 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:18:53 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:18:55 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-22 18:18:59 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:52.93
+
+2017-10-22 18:19:25 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:19:25 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:19:25 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:19:49 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:19:49 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:20:21 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 18:20:21 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:20:27 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:2.47
+
+2017-10-22 18:20:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:20:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:20:48 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:21:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:21:54 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:26:08 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:26:17 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:05:28.88
+
+2017-10-22 18:28:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:28:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:28:48 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:29:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:29:35 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:30:49 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 18:30:53 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:31:05 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:17.00
+
+2017-10-22 18:31:28 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:31:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:31:28 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:31:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:31:57 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:32:27 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 18:32:30 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:32:41 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:13.77
+
+2017-10-22 18:32:58 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:32:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:32:58 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:34:04 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:34:05 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:35:40 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 18:35:43 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:35:52 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:54.02
+
+2017-10-22 18:37:11 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:37:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:37:11 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:37:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:37:59 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:40:48 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:41:04 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:52.91
+
+2017-10-22 18:42:33 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 18:42:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 18:42:33 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 18:43:25 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 18:43:26 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 18:51:06 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 18:51:15 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:08:41.92
+
+2017-10-22 19:16:13 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 19:16:13 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 19:16:13 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 19:17:13 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 19:17:14 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-22 19:31:33 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-22 19:32:50 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-22 19:35:00 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-22 19:35:01 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-22 19:35:01 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-22 19:36:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-22 19:36:09 element.py methed:wait_element line:77 INFO - current element name:同步标志

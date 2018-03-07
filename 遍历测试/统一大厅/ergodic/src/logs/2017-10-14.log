@@ -1,0 +1,133 @@
+2017-10-14 19:12:07 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:12:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:12:08 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:13:00 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-14 19:13:02 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-14 19:13:30 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:13:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:13:30 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:16:24 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:16:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:16:24 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:17:40 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-14 19:17:42 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-14 19:18:09 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:18:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:18:09 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:18:59 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-14 19:19:00 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-14 19:21:32 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-14 19:21:55 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-14 19:22:08 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:58.93
+
+2017-10-14 19:23:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:23:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:23:48 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:24:42 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-14 19:24:43 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-14 19:26:59 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-14 19:27:06 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-14 19:27:18 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:29.24
+
+2017-10-14 19:39:23 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:39:23 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:39:23 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:40:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-14 19:40:22 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-14 19:42:56 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-14 19:43:03 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-14 19:44:41 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:05:17.80
+
+2017-10-14 19:44:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:ERGODIC 所有者:YoungLiu 优先级:High 超时:666分钟
+
+2017-10-14 19:44:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-14 19:44:48 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-14 19:45:15 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-14 19:45:16 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-14 19:47:54 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-14 19:48:27 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver

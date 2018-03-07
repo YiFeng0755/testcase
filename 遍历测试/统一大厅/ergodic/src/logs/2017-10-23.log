@@ -1,0 +1,19 @@
+2017-10-23 00:12:56 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 00:12:56 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-23 00:12:58 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 00:12:58 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 11:06:4.35
+
+2017-10-23 00:45:22 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 00:45:22 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 11:06:2.26
+
+2017-10-23 04:27:43 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 04:27:43 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 11:06:2.33
+
+2017-10-23 06:22:15 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 06:22:15 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 11:06:2.04
+
+2017-10-23 06:41:03 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 06:41:03 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-23 06:41:05 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-23 06:41:05 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 11:06:4.22
+

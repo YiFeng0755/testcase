@@ -1,0 +1,997 @@
+2017-10-18 09:25:29 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 09:25:29 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 09:25:29 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 09:25:29 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 09:25:29 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 09:25:31 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 09:25:31 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 09:25:31 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 13:10:53.05
+
+2017-10-18 09:25:31 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 09:25:31 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 13:12:58.38
+
+2017-10-18 09:25:33 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 09:25:33 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 22:10:37.43
+
+2017-10-18 15:07:14 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:07:14 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:07:14 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:07:21 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: No device connected, cannot run adb shell command 'ime set io.appium.android.ime/.UnicodeIME'
+
+
+2017-10-18 15:07:23 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:07:23 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:07:23 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:07:25 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:07:25 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 15:07:27 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:07:27 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:12.76
+
+2017-10-18 15:17:03 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:17:03 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:17:03 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:18:21 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:18:35 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:18:43 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:18:45 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:18:48 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:18:50 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:18:57 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:18:57 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:00 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:03 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:07 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:10 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:19:10 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:19:10 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:19:10 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:19:10 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:19:10 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 15:19:11 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:19:27 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:19:27 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:19:36 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:19:38 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:19:41 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:19:44 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:19:50 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:50 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:54 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:19:58 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:20:01 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:20:05 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:20:05 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:20:05 element.py methed:wait_element line:77 INFO - current element name:子游戏
+2017-10-18 15:20:05 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 进入子游戏
+
+2017-10-18 15:20:24 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 15:20:24 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 15:20:31 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:28.43
+
+2017-10-18 15:21:18 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:21:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:21:18 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:21:46 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:21:58 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:22:06 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:22:08 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:22:11 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:22:14 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:22:20 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:22:20 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:22:23 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:22:27 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:22:30 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:22:33 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:22:33 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:22:33 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:22:34 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:22:34 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:22:34 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 15:22:34 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:22:52 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:23:47 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:23:47 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:23:47 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:24:16 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:25:39 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:25:39 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:25:39 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:25:40 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-10-18 15:25:41 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-10-18 15:25:43 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:25:43 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:25:43 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:25:45 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:25:45 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 15:25:47 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:25:47 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:8.20
+
+2017-10-18 15:25:49 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:25:49 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:25:49 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:26:04 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:26:04 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 15:26:07 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:26:07 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:20.85
+
+2017-10-18 15:26:38 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:26:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:26:38 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:27:08 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:27:19 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:27:28 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:27:30 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:27:32 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:27:34 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:27:40 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:27:41 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:27:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:27:47 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:27:51 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:27:54 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:27:54 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:27:55 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:27:55 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:27:55 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:27:55 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 15:27:55 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:28:14 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:29:21 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:29:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:29:21 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:29:51 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:30:02 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:30:10 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:30:12 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:30:14 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:30:17 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:30:24 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:30:24 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:30:27 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:30:31 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:30:34 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:30:37 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:30:38 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:30:38 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:30:38 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:30:38 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:30:38 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 15:30:39 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:30:56 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:32:29 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:32:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:32:29 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:32:59 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:32:59 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:32:59 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:33:30 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:33:41 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:33:49 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:33:51 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:33:53 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:33:56 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:34:02 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:34:02 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:34:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:34:09 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:34:12 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:34:15 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:34:16 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:34:16 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:34:16 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:34:16 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:34:16 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 15:34:16 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:34:33 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:36:06 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:36:06 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:36:06 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:36:20 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:36:20 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 15:36:22 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:36:22 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:22.99
+
+2017-10-18 15:38:37 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 15:38:37 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 15:38:37 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 15:39:07 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:39:22 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:39:26 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 15:39:28 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 15:39:31 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 15:39:33 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 15:39:34 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:39:37 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:39:38 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:39:41 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:39:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 15:39:47 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:39:48 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 15:39:48 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:39:48 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 15:39:48 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:39:48 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 15:39:48 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 15:40:09 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 15:41:42 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:41:42 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 15:41:42 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 15:41:57 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:41:57 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 15:42:01 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 15:42:01 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:24.59
+
+2017-10-18 16:09:38 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:09:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:09:38 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:11:00 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-18 16:11:02 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:11:02 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:11:02 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:11:04 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:11:04 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:11:06 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:11:06 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:27.54
+
+2017-10-18 16:11:38 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:11:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:11:38 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:12:58 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:12:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:12:58 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:14:07 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-18 16:14:09 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:14:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:14:09 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:14:09 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:14:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:14:09 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:14:11 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:14:11 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:14:11 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:14:11 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:14:13 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:14:13 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:14:13 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:14.85
+
+2017-10-18 16:14:13 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:34.88
+
+2017-10-18 16:14:47 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:14:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:14:48 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:15:43 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-18 16:15:45 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:15:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:15:45 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:15:47 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:15:47 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:15:49 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:15:49 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:1.68
+
+2017-10-18 16:28:14 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:28:14 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:28:14 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:38:14 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 417, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+2017-10-18 16:38:16 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:38:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:38:16 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:38:18 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:38:18 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:38:20 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:38:21 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:10:6.95
+
+2017-10-18 16:42:08 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:42:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:42:08 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:42:17 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-18 16:42:19 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:42:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:42:19 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:42:21 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:42:21 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:42:23 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:42:23 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:15.14
+
+2017-10-18 16:42:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:42:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:42:48 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:43:30 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:43:42 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:43:51 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 16:43:53 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 16:43:56 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 16:43:58 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:44:05 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:44:05 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:44:05 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:44:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:44:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:44:06 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:44:06 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:44:56 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 16:44:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:44:56 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:44:56 element.py methed:get_elements line:51 INFO - current element name:子游戏
+2017-10-18 16:44:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 进入子游戏
+
+2017-10-18 16:44:56 element.py methed:get_elements line:51 INFO - current element name:场次名称
+2017-10-18 16:44:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 进入初级场
+
+2017-10-18 16:45:03 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 16:45:03 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:45:09 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:21.21
+
+2017-10-18 16:45:54 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:45:54 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:45:54 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:46:22 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:46:32 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:46:41 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 16:46:43 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 16:46:46 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 16:46:48 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:46:55 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:46:58 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:47:01 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:47:04 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:47:07 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:47:10 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:47:10 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:47:11 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 16:47:11 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 16:47:11 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 16:47:11 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 16:47:11 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 16:49:40 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:50:24 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:50:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:50:24 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:50:25 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-10-18 16:50:26 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-10-18 16:50:28 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:50:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:50:28 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:50:30 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:50:30 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:50:32 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:50:32 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:8.07
+
+2017-10-18 16:50:45 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:50:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:50:45 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:51:15 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:51:30 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:51:34 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 16:51:36 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 16:51:39 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 16:51:41 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:51:42 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:51:45 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:51:45 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:51:49 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:51:52 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:51:55 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:51:55 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:51:56 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 16:51:56 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 16:51:56 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 16:51:56 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 16:51:56 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 16:52:14 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:53:46 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:53:46 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:53:46 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:54:00 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:54:00 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:54:02 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:54:02 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:16.72
+
+2017-10-18 16:56:54 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:56:54 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:56:54 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:57:24 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:57:41 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:57:50 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 16:57:52 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 16:57:54 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 16:57:57 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 16:58:03 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:58:03 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:58:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:58:10 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:58:13 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 16:58:16 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:58:16 element.py methed:wait_element line:77 INFO - current element name:测试按钮
+2017-10-18 16:58:16 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 16:58:16 element.py methed:wait_element line:77 INFO - current element name:切换环境
+2017-10-18 16:58:17 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 16:58:17 element.py methed:get_element line:33 INFO - current element name:预发布1
+2017-10-18 16:58:17 element.py methed:wait_element line:77 INFO - current element name:预发布1
+2017-10-18 16:58:36 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 16:59:51 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 16:59:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 16:59:51 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 16:59:52 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-10-18 16:59:53 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-10-18 16:59:55 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:59:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 16:59:55 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 16:59:57 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:59:57 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 16:59:59 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 16:59:59 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:8.13
+
+2017-10-18 17:00:08 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 17:00:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 17:00:08 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 17:00:09 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 17:00:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 17:00:09 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 17:00:23 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 17:00:23 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 17:00:25 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 17:00:25 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:30.38
+
+2017-10-18 17:00:40 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 17:00:56 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 17:01:05 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 17:01:07 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 17:01:10 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 17:01:12 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 17:01:19 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:01:19 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:01:22 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:01:25 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:01:29 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:01:32 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 17:01:32 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 17:01:33 element.py methed:get_elements line:51 INFO - current element name:子游戏
+2017-10-18 17:01:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 进入子游戏
+
+2017-10-18 17:01:33 element.py methed:get_elements line:51 INFO - current element name:场次名称
+2017-10-18 17:01:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 进入初级场
+
+2017-10-18 17:01:41 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 17:01:41 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 17:03:08 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 17:03:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 17:03:08 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 17:03:36 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:26.91
+
+2017-10-18 17:04:06 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 17:04:21 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 17:04:29 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 17:04:32 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 17:04:34 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 17:04:37 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 17:04:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:04:44 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:04:47 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:04:50 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:04:53 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:04:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 17:04:57 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 17:04:57 element.py methed:get_elements line:51 INFO - current element name:子游戏
+2017-10-18 17:04:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 进入子游戏
+
+2017-10-18 17:04:57 element.py methed:get_elements line:51 INFO - current element name:场次名称
+2017-10-18 17:04:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 进入初级场
+
+2017-10-18 17:05:03 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 开始发送广播
+
+2017-10-18 17:05:13 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 17:05:13 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 17:05:19 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:10.42
+
+2017-10-18 17:13:15 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 17:13:15 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 17:13:15 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 17:13:43 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 17:13:54 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 17:14:02 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 17:14:05 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 17:14:08 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 17:14:10 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 17:14:16 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:14:20 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:14:23 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:14:26 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:14:29 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 17:14:32 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 17:14:32 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 17:14:32 element.py methed:get_elements line:51 INFO - current element name:子游戏
+2017-10-18 17:14:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 进入子游戏
+
+2017-10-18 17:14:37 element.py methed:get_elements line:51 INFO - current element name:场次名称
+2017-10-18 17:14:37 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 进入初级场
+
+2017-10-18 17:14:42 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 开始发送广播
+
+2017-10-18 17:14:52 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 17:14:52 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 17:14:58 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:42.39
+
+2017-10-18 21:04:45 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27357_BroadcastDisplayInGameroom 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 21:04:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 21:04:45 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 21:06:55 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 21:06:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 21:06:55 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 21:08:26 luadriver.py methed:creatLuaDriver line:53 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 50, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-10-18 21:08:28 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 21:08:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 21:08:28 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 21:08:30 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 21:08:30 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 21:08:32 element.py methed:screenshot line:115 INFO - 截图失败
+2017-10-18 21:08:32 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:37.41
+
+2017-10-18 21:09:32 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 21:09:32 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 21:09:32 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 21:09:59 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 21:10:11 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:10:19 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 21:10:22 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 21:10:24 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 21:10:27 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:10:33 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:10:36 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:10:40 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:10:40 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:10:42 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:10:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 21:10:45 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 21:10:45 element.py methed:wait_element line:77 INFO - current element name:鞍山麻将
+2017-10-18 21:10:45 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-18 21:11:05 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 21:11:05 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 21:11:11 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:39.04
+
+2017-10-18 21:14:36 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 21:14:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 21:14:36 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 21:15:03 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 21:15:14 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:15:22 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 21:15:24 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 21:15:27 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 21:15:29 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:15:36 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:15:39 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:15:42 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:15:46 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:15:49 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:15:52 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 21:15:52 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 21:15:52 element.py methed:wait_element line:77 INFO - current element name:鞍山麻将
+2017-10-18 21:15:52 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-18 21:15:53 element.py methed:wait_element line:77 INFO - current element name:准备
+2017-10-18 21:16:12 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 21:16:12 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 21:16:18 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:41.67
+
+2017-10-18 21:16:58 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 21:16:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 21:16:58 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 21:17:25 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 21:17:37 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:17:45 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 21:17:48 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 21:17:50 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 21:17:53 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:17:59 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:18:03 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:18:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:18:06 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:18:08 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:18:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 21:18:11 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 21:18:11 element.py methed:wait_element line:77 INFO - current element name:鞍山麻将
+2017-10-18 21:18:15 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-18 21:18:35 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 21:18:35 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 21:18:41 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:43.61
+
+2017-10-18 21:19:50 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C27416_PersonalInfomation 所有者:YoungLiu 优先级:High 超时:15分钟
+
+2017-10-18 21:19:50 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-10-18 21:19:50 luadriver.py methed:creatLuaDriver line:47 INFO - creat luadriver
+2017-10-18 21:20:17 element.py methed:wait_element line:77 INFO - current element name:头像
+2017-10-18 21:20:28 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:20:36 element.py methed:wait_element line:77 INFO - current element name:确认登陆
+2017-10-18 21:20:39 element.py methed:wait_element line:77 INFO - current element name:立即升级绑定账号
+2017-10-18 21:20:41 element.py methed:wait_element line:77 INFO - current element name:资源下载-取消
+2017-10-18 21:20:44 element.py methed:wait_element line:77 INFO - current element name:新手任务
+2017-10-18 21:20:50 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:20:53 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:20:56 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:20:57 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:20:59 element.py methed:wait_element line:77 INFO - current element name:关闭1
+2017-10-18 21:21:02 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-10-18 21:21:02 element.py methed:wait_element line:77 INFO - current element name:同步标志
+2017-10-18 21:21:02 element.py methed:wait_element line:77 INFO - current element name:鞍山麻将
+2017-10-18 21:21:07 element.py methed:wait_element line:77 INFO - current element name:场次名称
+2017-10-18 21:21:25 element.py methed:screenshot line:113 INFO - 截图成功
+2017-10-18 21:21:25 luadriver.py methed:closeLuadriver line:56 INFO - close luadriver
+2017-10-18 21:21:32 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:41.53
+

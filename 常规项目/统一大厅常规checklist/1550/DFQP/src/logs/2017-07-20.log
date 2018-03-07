@@ -1,0 +1,323 @@
+2017-07-20 14:33:29 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31005_DFQP_Login_UseLogin2 所有者:Lucyliu 优先级:High 超时:8分钟
+
+2017-07-20 14:33:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 14:33:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 14:33:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 14:33:29 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.06
+
+2017-07-20 18:24:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 18:24:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 18:24:48 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 18:24:49 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-07-20 18:24:50 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-07-20 18:24:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:24:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:24:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 18:24:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:24:51 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 18:24:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:24:51 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:2.37
+
+2017-07-20 18:25:27 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 18:25:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 18:25:27 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 18:25:28 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-07-20 18:25:29 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-07-20 18:25:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:25:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:25:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 18:25:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:25:29 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 18:25:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:25:29 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:2.14
+
+2017-07-20 18:25:36 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 18:25:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 18:25:36 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 18:26:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:26:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 18:27:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:21 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 18:27:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:27:23 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:46.86
+
+2017-07-20 18:28:11 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 18:28:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 18:28:11 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 18:28:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:28:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:28:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:28:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:28:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:28:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:35 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 18:29:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:37 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 18:29:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:29:39 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:28.35
+
+2017-07-20 18:30:08 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 18:30:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 18:30:08 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 18:30:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:30:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 18:31:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:35 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 18:31:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 18:31:37 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:28.59
+
+2017-07-20 19:15:35 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 19:15:35 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 19:15:35 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 19:15:36 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-07-20 19:15:37 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-07-20 19:15:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:15:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:15:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 19:15:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:15:38 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 19:15:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:15:38 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:2.33
+
+2017-07-20 19:16:11 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 19:16:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 19:16:11 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 19:16:12 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-07-20 19:16:21 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-07-20 19:16:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:16:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:16:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 19:16:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:16:21 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 19:16:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:16:21 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:10.46
+
+2017-07-20 19:16:59 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31070_DFQP_Activity 所有者:MindyZhang 优先级:High 超时:5分钟
+
+2017-07-20 19:16:59 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化driver
+
+2017-07-20 19:16:59 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-07-20 19:17:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:17:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:26 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-07-20 19:18:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:28 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-07-20 19:18:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-07-20 19:18:30 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:30.40
+

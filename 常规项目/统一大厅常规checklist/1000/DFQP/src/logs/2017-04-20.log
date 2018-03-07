@@ -1,0 +1,571 @@
+2017-04-20 09:21:29 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 09:21:45 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:21:49 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 09:22:15 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 09:22:16 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:22:16 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:22:16 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:24:21 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 09:24:37 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:24:45 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 09:25:02 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 09:25:07 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:25:07 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:25:07 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:27:15 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 09:27:33 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:27:55 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 09:28:08 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 09:28:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:28:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:28:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:28:59 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 09:29:30 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 09:29:45 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 09:29:45 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:30:00 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 09:30:15 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:30:15 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 09:30:24 nativedriver.py methed:creatNativeDriver line:42 ERROR - [Errno 10054] 
+2017-04-20 09:30:24 nativedriver.py methed:creatNativeDriver line:43 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 39, in creatNativeDriver
+    __global_nativedriver=webdriver.Remote(nativeurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 09:30:24 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 09:30:24 nativedriver.py methed:getNativeDriver line:61 ERROR - global name '_NativeDriver__global_nativedriver' is not defined
+2017-04-20 09:30:24 nativedriver.py methed:getNativeDriver line:62 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 58, in getNativeDriver
+    return __global_nativedriver
+NameError: global name '_NativeDriver__global_nativedriver' is not defined
+
+2017-04-20 09:30:24 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:30:24 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:30:24 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:30:41 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 09:30:52 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:30:52 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 09:31:06 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 09:31:06 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:31:06 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:31:06 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 09:40:41 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 13:09:19 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 13:09:44 nativedriver.py methed:creatNativeDriver line:42 ERROR - [Errno 10054] 
+2017-04-20 13:09:44 nativedriver.py methed:creatNativeDriver line:43 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 39, in creatNativeDriver
+    __global_nativedriver=webdriver.Remote(nativeurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 13:09:44 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 13:09:44 nativedriver.py methed:getNativeDriver line:61 ERROR - global name '_NativeDriver__global_nativedriver' is not defined
+2017-04-20 13:09:44 nativedriver.py methed:getNativeDriver line:62 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 58, in getNativeDriver
+    return __global_nativedriver
+NameError: global name '_NativeDriver__global_nativedriver' is not defined
+
+2017-04-20 13:16:29 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 13:16:38 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 13:17:02 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 13:17:13 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:17:13 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:18:46 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 13:18:47 nativedriver.py methed:creatNativeDriver line:42 ERROR - Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+2017-04-20 13:18:47 nativedriver.py methed:creatNativeDriver line:43 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 39, in creatNativeDriver
+    __global_nativedriver=webdriver.Remote(nativeurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 236, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 192, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+2017-04-20 13:18:47 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 13:18:47 nativedriver.py methed:getNativeDriver line:61 ERROR - global name '_NativeDriver__global_nativedriver' is not defined
+2017-04-20 13:18:47 nativedriver.py methed:getNativeDriver line:62 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 58, in getNativeDriver
+    return __global_nativedriver
+NameError: global name '_NativeDriver__global_nativedriver' is not defined
+
+2017-04-20 13:18:47 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 13:18:47 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 236, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 192, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+
+2017-04-20 13:18:47 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:18:47 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 13:20:47 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 13:20:56 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 13:20:56 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 13:21:08 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:21:08 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:21:08 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:21:08 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:21:44 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:21:44 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:21:44 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:22:27 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:22:27 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:22:27 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:23:07 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:23:07 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:23:07 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:23:36 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 13:23:39 nativedriver.py methed:closeNativedriver line:46 INFO - close nativedriver
+2017-04-20 13:25:16 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 13:25:27 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 13:25:27 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 13:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:26:16 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:26:16 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:26:16 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:26:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:26:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:26:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:41:47 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 13:42:17 nativedriver.py methed:creatNativeDriver line:42 ERROR - Message: A new session could not be created. (Original error: Could not find a connected Android device.)
+
+2017-04-20 13:42:17 nativedriver.py methed:creatNativeDriver line:43 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 39, in creatNativeDriver
+    __global_nativedriver=webdriver.Remote(nativeurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 236, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 192, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Could not find a connected Android device.)
+
+
+2017-04-20 13:42:17 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 13:42:17 nativedriver.py methed:getNativeDriver line:61 ERROR - global name '_NativeDriver__global_nativedriver' is not defined
+2017-04-20 13:42:17 nativedriver.py methed:getNativeDriver line:62 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 58, in getNativeDriver
+    return __global_nativedriver
+NameError: global name '_NativeDriver__global_nativedriver' is not defined
+
+2017-04-20 13:42:17 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 13:42:43 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 13:42:43 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 13:42:43 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 15:13:35 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 15:13:46 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 15:13:46 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 15:13:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:13:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:13:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:13:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:14:35 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:14:35 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:14:35 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:16:22 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 15:16:32 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 15:16:32 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 15:17:14 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 15:17:14 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:17:14 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 15:17:43 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 15:19:08 nativedriver.py methed:creatNativeDriver line:42 ERROR - [Errno 10054] 
+2017-04-20 15:19:08 nativedriver.py methed:creatNativeDriver line:43 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 39, in creatNativeDriver
+    __global_nativedriver=webdriver.Remote(nativeurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 15:19:08 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 15:19:08 nativedriver.py methed:getNativeDriver line:61 ERROR - global name '_NativeDriver__global_nativedriver' is not defined
+2017-04-20 15:19:08 nativedriver.py methed:getNativeDriver line:62 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\nativedriver.py", line 58, in getNativeDriver
+    return __global_nativedriver
+NameError: global name '_NativeDriver__global_nativedriver' is not defined
+
+2017-04-20 15:19:08 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 15:19:12 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-04-20 15:19:12 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:19:12 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 15:19:37 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 15:19:47 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 15:19:47 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 15:19:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:19:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:19:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:19:59 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:20:34 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:20:34 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:20:34 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:21:17 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:21:17 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:21:17 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:22:34 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 15:22:36 nativedriver.py methed:closeNativedriver line:46 INFO - close nativedriver
+2017-04-20 15:22:59 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 15:23:10 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 15:23:10 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 15:23:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:23:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:23:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:23:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:24:20 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 15:24:42 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 15:24:52 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 15:24:52 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 15:25:04 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:25:04 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:25:04 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:25:04 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:25:40 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:26:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:26:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:26:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 15:27:34 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 15:27:36 nativedriver.py methed:closeNativedriver line:46 INFO - close nativedriver
+2017-04-20 17:17:41 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 17:17:42 remote_connection.py methed:__init__ line:190 INFO - Could not get IP address for host: 127.0.0.1
+2017-04-20 17:17:43 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 92, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 179, in start_session
+    response = self.execute(Command.NEW_SESSION, capabilities)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 234, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 408, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 478, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-04-20 17:17:43 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:37:22 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 18:37:52 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\webdriver.py", line 249, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. (Original error: Could not find a connected Android device.)
+
+
+2017-04-20 18:37:52 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:38:02 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:38:02 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 18:38:11 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 18:38:22 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:38:22 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 18:38:32 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 18:38:42 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:38:44 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 18:38:47 nativedriver.py methed:closeNativedriver line:46 INFO - close nativedriver
+2017-04-20 18:50:58 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 18:50:59 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-04-20 18:51:00 luadriver.py methed:creatLuaDriver line:45 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 42, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\webdriver.py", line 247, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\remote_connection.py", line 464, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium\webdriver\remote\remote_connection.py", line 525, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+
+2017-04-20 18:51:00 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:51:10 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:51:10 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 18:51:50 luadriver.py methed:creatLuaDriver line:39 INFO - creat luadriver
+2017-04-20 18:52:01 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:52:01 nativedriver.py methed:creatNativeDriver line:36 INFO - creat nativedriver
+2017-04-20 18:52:09 nativedriver.py methed:getNativeDriver line:56 INFO - get nativedriver
+2017-04-20 18:52:20 luadriver.py methed:getLuaDriver line:53 INFO - get luadriver
+2017-04-20 18:52:22 luadriver.py methed:closeLuadriver line:48 INFO - close luadriver
+2017-04-20 18:52:24 nativedriver.py methed:closeNativedriver line:46 INFO - close nativedriver

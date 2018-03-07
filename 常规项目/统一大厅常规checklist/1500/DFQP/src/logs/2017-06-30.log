@@ -1,0 +1,1571 @@
+2017-06-30 10:04:44 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31155_DFQP_GamePlayList 所有者:MindyZhang 优先级:High 超时:10分钟
+
+2017-06-30 10:04:44 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 10:05:18 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 254, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 479, in execute
+    return self._request(command_info[0], url, body=data)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\remote_connection.py", line 540, in _request
+    resp = opener.open(request, timeout=self._timeout)
+  File "D:\Python27\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "D:\Python27\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "D:\Python27\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "D:\Python27\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "D:\Python27\lib\urllib2.py", line 1201, in do_open
+    r = h.getresponse(buffering=True)
+  File "D:\Python27\lib\httplib.py", line 1136, in getresponse
+    response.begin()
+  File "D:\Python27\lib\httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "D:\Python27\lib\httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "D:\Python27\lib\socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 10054] 
+
+2017-06-30 10:05:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:05:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:05:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 10:05:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:05:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:05:18 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:33.62
+
+2017-06-30 10:06:01 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31155_DFQP_GamePlayList 所有者:MindyZhang 优先级:High 超时:10分钟
+
+2017-06-30 10:06:01 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 10:06:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:06:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:06:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:06:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:06:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:06:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:12 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 10:07:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 点击血战到底：
+
+2017-06-30 10:07:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:07:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:08:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:08:06 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 10:08:14 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:12.35
+
+2017-06-30 10:10:05 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31154_DFQP_GameRoom_Agenda 所有者:MindyZhang 优先级:High 超时:10分钟
+
+2017-06-30 10:10:06 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 10:10:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:10:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:10:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:10:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:10:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:10:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 10:11:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 点击血战到底：
+
+2017-06-30 10:11:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 点击今日赛程按钮
+
+2017-06-30 10:11:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:11:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:12:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:12:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:12:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:12:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:13:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:20:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:20:06 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:10:0.12
+
+2017-06-30 10:20:30 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31154_DFQP_GameRoom_Agenda 所有者:MindyZhang 优先级:High 超时:10分钟
+
+2017-06-30 10:20:30 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 10:20:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:43 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 10:21:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:50 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 点击血战到底：
+
+2017-06-30 10:21:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:21:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:22:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 点击今日赛程按钮
+
+2017-06-30 10:22:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:24:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:24:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:24:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:24:45 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:15.46
+
+2017-06-30 10:43:14 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31154_DFQP_GameRoom_Agenda 所有者:MindyZhang 优先级:High 超时:10分钟
+
+2017-06-30 10:43:14 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 10:43:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:43:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:43:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 10:44:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:35 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 点击血战到底：
+
+2017-06-30 10:44:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 点击今日赛程按钮
+
+2017-06-30 10:44:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 10:44:55 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 10:45:01 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:46.79
+
+2017-06-30 11:16:31 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31154_DFQP_GameRoom_Agenda 所有者:MindyZhang 优先级:High 超时:10分钟
+
+2017-06-30 11:16:31 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:16:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:47 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 11:17:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:54 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 点击血战到底：
+
+2017-06-30 11:17:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:17:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:18:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:18:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 点击今日赛程按钮
+
+2017-06-30 11:18:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:26:27 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31042_DFQP_Backpack_share 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:26:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:26:27 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:26:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:26:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 11:27:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:19 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31036_DFQP_Backpack_Sendpro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:27:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:19 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:19 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.09
+
+2017-06-30 11:27:20 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.06
+
+2017-06-30 11:27:20 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31042_DFQP_Backpack_share 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.05
+
+2017-06-30 11:27:20 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31040_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.14
+
+2017-06-30 11:27:20 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.05
+
+2017-06-30 11:27:20 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31037_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.06
+
+2017-06-30 11:27:20 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31034_DFCP_Backpack_Interface_GetPro 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:27:20 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 等待页面加载完成
+
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:27:20 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.06
+
+2017-06-30 11:27:54 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31040_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:27:54 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:27:54 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:28:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:17 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 11:28:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:28:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 11:29:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:29:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:30:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 11:31:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:25 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 11:31:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 11:31:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:31:45 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:31:50 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:56.65
+
+2017-06-30 11:31:50 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31036_DFQP_Backpack_Sendpro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 11:31:50 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:31:50 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:32:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:13 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 11:32:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:32:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 11:33:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:33:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:34:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:14 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 11:35:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入物品箱页面
+
+2017-06-30 11:35:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 进入消息页面
+
+2017-06-30 11:35:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 查看消息
+
+2017-06-30 11:35:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:35:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤8: 进入物品箱页面
+
+2017-06-30 11:36:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:27 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C30981_DFQP_Notice_Display 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:36:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:36:27 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:36:27 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:36:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:36:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:27 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:36:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:36:27 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.09
+
+2017-06-30 11:37:57 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C30981_DFQP_Notice_Display 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:37:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:37:57 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:38:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:38:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:38:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:38:39 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:38:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:38:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:38:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:38:53 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:38:59 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:1.86
+
+2017-06-30 11:40:10 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33362_DFQP_Notice_Text 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:40:10 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:40:10 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:40:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:40:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:40:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:40:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:40:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:41:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:41:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:41:07 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:41:13 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:2.94
+
+2017-06-30 11:42:56 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33362_DFQP_Notice_Text 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:42:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:42:56 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:43:48 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_HTML 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:43:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:43:48 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:43:49 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 11:43:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:43:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:43:49 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 11:43:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:43:49 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:43:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:43:49 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.14
+
+2017-06-30 11:46:37 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_HTML 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:46:37 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:46:37 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:47:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:47:01 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:47:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:47:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:47:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:47:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:47:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:47:34 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:47:40 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:3.36
+
+2017-06-30 11:48:06 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_Picture 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:48:06 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:48:06 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:48:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:48:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:48:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:48:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:48:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:48:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:48:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:49:03 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:49:08 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:2.64
+
+2017-06-30 11:49:16 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_Picture 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:49:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:49:16 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:49:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:49:39 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:49:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:49:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:49:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:49:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:50:02 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:50:07 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:51.18
+
+2017-06-30 11:52:42 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_Picture 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:52:42 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:52:42 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:52:43 remote_connection.py methed:__init__ line:222 INFO - Could not get IP address for host: 127.0.0.1
+2017-06-30 11:53:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:53:07 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:53:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:53:26 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:53:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:53:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:53:30 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:53:36 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:53.54
+
+2017-06-30 11:54:56 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_Picture 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:54:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:54:56 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:55:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:55:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:55:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:55:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:55:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:55:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:55:42 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:55:48 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:51.96
+
+2017-06-30 11:57:55 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_Picture 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 11:57:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 11:57:55 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 11:58:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:58:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 11:58:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:58:45 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 11:58:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:58:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:58:45 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 11:58:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 11:58:45 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:50.51
+
+2017-06-30 12:11:25 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_Picture 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 12:11:25 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 12:11:25 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 12:11:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:11:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 配置公告
+
+2017-06-30 12:12:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:12:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 等待页面加载完成
+
+2017-06-30 12:12:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:12:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:12:20 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 12:12:26 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:0.69
+
+2017-06-30 12:16:55 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_HTML 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 12:16:55 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 12:16:55 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 12:17:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:17:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:17:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 12:17:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:17:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:17:31 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 12:17:37 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:41.96
+
+2017-06-30 12:18:07 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C33363_DFQP_Notice_HTML 所有者:LucyLiu 优先级:High 超时:5分钟
+
+2017-06-30 12:18:07 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 12:18:07 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 12:18:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:18:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:18:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 12:18:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:18:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 12:18:43 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 12:18:48 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:41.71
+
+2017-06-30 15:12:12 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 15:12:12 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 15:12:12 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 15:12:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:12:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 15:12:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:12:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:12:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:12:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 15:13:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:13:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:04 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 15:14:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:10 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 15:14:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:15 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 15:14:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:14:31 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 15:14:36 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:24.63
+
+2017-06-30 15:16:16 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 15:16:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 15:16:16 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 15:16:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:16:38 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 15:16:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:16:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:43 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 15:17:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:17:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:18:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:44 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 15:19:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:50 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 15:19:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 15:19:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:19:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:20:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:20:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:20:12 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 15:20:18 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:2.33
+
+2017-06-30 15:26:49 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 15:26:49 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 15:26:49 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 15:27:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:12 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 15:27:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:27:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:16 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 15:28:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:28:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:29:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 15:30:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 15:30:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 15:30:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:30:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:43 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 15:31:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:31:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:32:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:32:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:32:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:32:16 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 15:32:22 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:05:32.62
+
+2017-06-30 15:35:36 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 15:35:36 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 15:35:36 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 15:35:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:35:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 15:36:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:36:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:02 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 15:37:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:37:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:38:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:04 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 15:39:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:10 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 15:39:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:15 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 15:39:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:35 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 15:39:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:39:56 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 15:39:59 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 15:39:59 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 15:39:59 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 15:40:02 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:26.53
+
+2017-06-30 15:40:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 15:40:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:40:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:28 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 15:41:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 15:41:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:41:59 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 15:41:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:05 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 15:42:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 15:42:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:42:44 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 15:42:50 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:51.12
+
+2017-06-30 15:53:00 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 15:53:00 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 15:53:00 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 15:53:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:22 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 15:53:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:53:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 15:54:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:54:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:55:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 15:56:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:35 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 15:56:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:40 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 15:56:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:54 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:56:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:57:00 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 15:57:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:57:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:57:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:57:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 15:57:20 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 15:57:26 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:26.20
+
+2017-06-30 16:03:53 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:03:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:03:53 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:04:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:15 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:04:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:04:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:22 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 16:05:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:05:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:06:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:22 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 16:07:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:29 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 16:07:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 16:07:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:07:53 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 16:07:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:08:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:08:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:08:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:08:14 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 16:08:21 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:27.80
+
+2017-06-30 16:19:34 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31035_DFQP_Backpack_Givepro 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:19:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:19:34 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:19:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:19:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:20:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:20:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:02 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 16:21:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:20 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 16:21:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:26 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 16:21:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:31 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 16:21:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:51 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:21:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 16:22:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:22:51 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 16:22:57 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:03:23.42
+
+2017-06-30 16:30:21 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:30:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:30:21 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:30:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:30:44 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:31:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 16:31:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:31:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:07 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:12 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 16:32:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 16:32:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:24 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 16:32:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:32:39 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 16:32:45 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:23.76
+
+2017-06-30 16:34:35 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:34:35 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:34:35 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:34:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:34:58 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:35:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:35:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:02 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 16:36:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 16:36:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 16:36:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:39 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 16:36:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:36:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:07 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 16:37:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:11 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:37:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:37:11 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:37:11 luadriver.py methed:creatLuaDriver line:52 ERROR - Traceback (most recent call last):
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appiumcenter\luadriver.py", line 49, in creatLuaDriver
+    __global_luadriver=webdriver.Remote(luaurl, self.capabilities)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\appium_rainbow\webdriver\webdriver.py", line 36, in __init__
+    super(WebDriver, self).__init__(command_executor, desired_capabilities, browser_profile, proxy, keep_alive)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 98, in __init__
+    self.start_session(desired_capabilities, browser_profile)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 185, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python27\lib\site-packages\rainbow2_python-1.0.0-py2.7.egg\selenium_rainbow\webdriver\remote\errorhandler.py", line 193, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'?
+
+
+2017-06-30 16:37:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:11 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 等待页面加载完成
+
+2017-06-30 16:37:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:11 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:11 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:00:0.27
+
+2017-06-30 16:37:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:37:26 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 16:37:32 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:02:57.09
+
+2017-06-30 16:48:08 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:48:08 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:48:08 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:48:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:48:34 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:48:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:48:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:48:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:48:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:48:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:37 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 16:49:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:49:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:04 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:57 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:50:59 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:03 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:26 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:28 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:37 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 16:51:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:43 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 16:51:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:48 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 16:51:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:51:55 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:01 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:05 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:07 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 16:52:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:52:26 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 16:52:31 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:22.32
+
+2017-06-30 16:55:09 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:55:09 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:55:09 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:55:30 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:55:30 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:55:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:55:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:55:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:55:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:55:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:25 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:29 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:33 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 16:56:33 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:37 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 16:56:37 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:56:42 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 16:56:48 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:39.08
+
+2017-06-30 16:58:56 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 16:58:56 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 16:58:56 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 16:59:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:18 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 16:59:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:36 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:41 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:43 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 16:59:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 17:00:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:20 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:23 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 17:00:23 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:24 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:00:28 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 17:00:33 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:01:37.23
+
+2017-06-30 17:00:57 testresult.py methed:handle_test_begin line:371 INFO - 测试用例:C31038_DFQP_Backpack_Compose 所有者:LucyLiu 优先级:High 超时:10分钟
+
+2017-06-30 17:00:57 testresult.py methed:handle_step_begin line:403 INFO - 步骤1: 初始化环境
+
+2017-06-30 17:00:57 luadriver.py methed:creatLuaDriver line:46 INFO - creat luadriver
+2017-06-30 17:01:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:19 testresult.py methed:handle_step_begin line:403 INFO - 步骤2: 接口交互道具私信
+
+2017-06-30 17:01:35 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:48 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:01:50 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:09 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:15 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:17 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:19 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:22 testresult.py methed:handle_step_begin line:403 INFO - 步骤3: 判断是否登陆
+
+2017-06-30 17:02:22 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:31 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:44 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:52 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:02:56 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:00 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:13 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:38 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:40 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:42 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:45 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:03:47 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:06 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:08 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:10 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:12 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:14 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:16 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:18 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:21 testresult.py methed:handle_step_begin line:403 INFO - 步骤4: 等待页面加载完成
+
+2017-06-30 17:04:21 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:27 testresult.py methed:handle_step_begin line:403 INFO - 步骤5: 进入消息页面
+
+2017-06-30 17:04:27 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:32 testresult.py methed:handle_step_begin line:403 INFO - 步骤6: 查看消息
+
+2017-06-30 17:04:32 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:34 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:39 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:46 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:49 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:51 testresult.py methed:handle_step_begin line:403 INFO - 步骤7: 进入物品箱页面
+
+2017-06-30 17:04:53 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:04:58 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:05:02 luadriver.py methed:getLuaDriver line:59 INFO - get luadriver
+2017-06-30 17:05:05 luadriver.py methed:closeLuadriver line:55 INFO - close luadriver
+2017-06-30 17:05:10 testresult.py methed:handle_test_end line:386 INFO - 测试用例执行时间: 00:04:13.64
+
